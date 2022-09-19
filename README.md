@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**chujimmy/chujimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__About me__
 
-Here are some ideas to get you started:
+Hi! I'm Jimmy (He/Him)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working at [MeilleursAgents](https://https://www.meilleursagents.com/) MeilleursAgents as a backend engineer
+- 👷 I’m currently working on TBC
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/chujimmy1/)
+
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chujimmy&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
