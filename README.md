@@ -10,4 +10,4 @@ Hi! I'm Jimmy (He/Him)
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chujimmy&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats-chujimmy.vercel.app/api?username=chujimmy&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
