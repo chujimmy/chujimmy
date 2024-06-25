@@ -4,8 +4,7 @@ __About me__
 
 Hi! I'm Jimmy (He/Him)
 
-- 💼 Currently working at [MeilleursAgents](https://www.meilleursagents.com/) MeilleursAgents as a backend engineer
-- 👷 I’m currently working on TBC
+- 💼 Currently working at [MeilleursAgents](https://www.meilleursagents.com/) as a backend engineer
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/chujimmy1/)
 
 <br/>
